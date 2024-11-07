@@ -172,4 +172,35 @@ Example:
     Output: No common elements
 ```
 
+Q 19. Write a bowling game simulation, where the user presses enter to roll the ball and the program generates a random number between 0 and 10 for each roll. 
+After each user turns, the CPU should be able to generate a random number between 0 and 10 for each roll. 
+The program should keep track of the score and display it after each roll. 
+The game should have 10 frames and should display the final score at the end of the game.
+keeps scores of user and cpu in an array and display the score after each frame.
+the game should display the winner at the end of the game.
+
+```
+Example:
+    Frame 1: (press enter to bowl)
+    User: 5
+    CPU: 7
+    Score: User: 5, CPU: 7
+
+    Frame 2: (press enter to bowl)
+    User: 3
+    CPU: 8
+    Score: User: 8, CPU: 15
+
+    ...
+    
+    Frame 10: (press enter to bowl)
+    User: 10
+    CPU: 10
+    Score: User: 100, CPU: 120
+
+    Winner: CPU
+```
+
+
+
 🍵🍵🍵🍵🍵🍵🍵🍵MBU🍵🍵🍵🍵🍵🍵🍵🍵🍵
