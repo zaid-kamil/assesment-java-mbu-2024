@@ -2,7 +2,18 @@
 
 🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵
 
-Q1. Write the fibonacci series program in Java using Arrays
+Q1. Write the program to generate fibonacci series program in Java 
+
+Q2. Write a program to generate fibonacci series from any two given numbers.
+
+```
+Example: 
+    Input: 
+        n = 5
+        num1 = 5
+        num2 = 10
+    Output: 5, 10, 15, 25, 40
+```
 
 ---
 Q2. Create a class OptimusPrime that have following methods:
