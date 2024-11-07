@@ -39,4 +39,35 @@ Q5. Write a program in Java to find the factorial of a number using recursion.
 
 Q6. Write a menu based program in Java for a restaurant. It should have 5 items in menu. The user can select as many items as he wants. The program should display the total amount to be paid. Also, if the user selects an item that is not in the menu, the program should print "Invalid choice" and ask the user to select again.
 
+---
+
+Q7. Write a program to find if a string is palindrome or not.
+
+```
+Example:
+    Input: "madam"
+    Output: "Palindrome"
+```
+---
+Q8. Write a program to find the sum of digits of a number.
+
+```
+Example:
+    Input: 123
+    Output: 6
+```
+Q9. Create a class Animal that has the following methods:
+
+`eat(), sleep(), sound()`
+
+---
+
+Q10. Create a program to count the number of duplicate characters in a string.
+
+```
+Example:
+    Input: "hello"
+    Output: 2
+```
+
 🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵
