@@ -71,3 +71,103 @@ Example:
 ```
 
 🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵🍵
+## INTERMEDIATE LEVEL
+
+Q11. Write a program to find the sum of the following series:
+
+    1 + 1/2 + 1/3 + 1/4 + 1/5 + ... + 1/n
+
+_hint: Use for loop to iterate from 1 to n_
+
+---
+
+Q12. Write a program to check if a number is a perfect number or not.
+
+```
+Example:
+    Input: 28
+    Output: Perfect number
+
+    Input: 15
+    Output: Not a perfect number
+```
+_a perfect number is a positive integer that is equal to the sum of its proper divisors, excluding itself like 28 = 1 + 2 + 4 + 7 + 14 or 6 = 1 + 2 + 3_
+
+---
+
+Q13. Write a java program to find the second largest number in an array.
+
+```
+example:
+    Input: [1, 2, 3, 4, 5]
+    Output: 4
+
+    Input: [10, 5, 20, 8, 15]
+    Output: 15
+```
+_The program should handle arrays with duplicate elements.
+If the array has less than two unique elements, the program should return a message indicating that the second largest element does not exist._
+
+---
+
+Q14. Write a Java program to check if 2 strings are anagrams of each other.
+
+```
+Example:
+    Input: "listen", "silent"
+    Output: Anagrams
+
+    Input: "hello", "world"
+    Output: Not anagrams
+```
+_An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once._
+
+---
+
+Q15. Write a Java program to find the first non-repeating character in a string.
+    
+```
+Example:
+    Input: "hello"
+    Output: h
+
+    Input: "teeter"
+    Output: r
+```
+---
+
+Q16. Write a Java program to reverse the words in a given sentence.
+```
+Example:
+    Input: "Hello World"
+    Output: "World Hello
+
+    Input: "I am a Java Developer"
+
+    Output: "Developer Java a am I"
+```
+---
+
+Q17. Write a Java program to count the number of vowels and consonants in a string.
+
+```
+Example:
+    Input: "hello"
+    Output: Vowels: 2, Consonants: 3
+
+    Input: "world"
+    Output: Vowels: 1, Consonants: 4
+```
+
+---
+
+Q18. Write a Java program to find the common elements between two arrays of integers.
+
+```
+Example:
+    Input: [1, 2, 3, 4, 5], [4, 5, 6, 7, 8]
+    Output: [4, 5]
+
+    Input: [1, 2, 3], [4, 5, 6]
+    Output: No common elements
+```
