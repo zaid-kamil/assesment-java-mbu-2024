@@ -1,5 +1,5 @@
 
-- [x] [some leetcode questions on strings and arrays](Question_Sheet.xlsx)
+- [x] [10 leetcode questions on strings and arrays](Question_Sheet.xlsx)
 - [x] [Arrays](arrays.md)
 - [x] [strings](strings.md)
 - [x] [leetcode easy questions](easy_leetcode.md)
